@@ -1,0 +1,115 @@
+
+
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    
+  }
+  
+  .merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:32px;
+  }
+  
+  .merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .merriweather-black {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 72px;
+  }
+  
+  .merriweather-light-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .merriweather-regular-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .merriweather-bold-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .merriweather-black-italic {
+    font-family: "Merriweather", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+
+.header-banner {
+    width: 1320px;
+    height: 600px;
+    border: 1px solid white;
+    border-radius: 16px;
+    margin: 50px auto; 
+    background: linear-gradient(to bottom, rgba(7, 2, 17, 0.8), rgba(7, 2, 17, 0)), 
+                url('/images/Banner Image.png');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    background-position: center;
+    
+    }
+
+    .banner-font{
+        display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center; 
+    text-align: center; 
+    color: white; 
+    font-family: Arial, sans-serif;
+}
+.off65{
+  color:#FF0000;
+  font-size:88px;
+  margin-top: 100px;
+  margin-bottom:50px;
+
+}
+.holyday-font{
+   margin-bottom:5px;
+   color:#FF0000;
+   font-size:24px;
+   font-weight:500;
+}
+.catagory{
+  font-size:48px;
+  margin-top: 0;
+  font-weight: bold;
+  
+
+}
+.header-2ndpart{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+.inter-font {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight:bold;
+}
+
+
+    
